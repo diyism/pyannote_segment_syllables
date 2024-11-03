@@ -26,3 +26,7 @@
     Saved syllable 010: 3.250s - 3.475s (duration: 0.225s)
     Saved syllable 011: 3.550s - 3.760s (duration: 0.210s)
     Saved syllable 012: 3.760s - 3.975s (duration: 0.215s)
+
+    $ aplay syllables/001.wav
+    $ aplay syllables/002.wav
+    $ aplay syllables/003.wav
