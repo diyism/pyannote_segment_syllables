@@ -1,4 +1,5 @@
     $ git clone https://github.com/diyism/pyannote_segment_syllables
+    $ cd pyannote_segment_syllables/
     $ python main.py sherpa-onnx-kws-zipformer-wenetspeech-3.3M-2024-01-01_test_wavs_4.wav
     Found 12 syllables:
     0.560s - 0.742s
